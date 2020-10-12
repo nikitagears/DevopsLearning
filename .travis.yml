@@ -1,2 +1,5 @@
+dist: trusty
+#sudo: required
+language: bash
 notifications:
   slack: nikitagears:0f68AYfNgL5lfdNBKpObyKHr
