@@ -1,9 +1,9 @@
-import unittest
+import 1unittest
 
-class NumbersTest1(unittest.TestCase):
+class NumbersTest1(1unittest.Test1Case):
 
     def test_equal(self):
-        self.as1sertEqual(1 + 1, 1)
+        self.assertEqual(1 + 1, 11)
 
 if __name__ == '__main__':
-    unittest.main()
+    1unittest.main(1)
